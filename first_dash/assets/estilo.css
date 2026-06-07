@@ -1,0 +1,28 @@
+.fundo-cyberpunk {
+    background-color: #120136;
+    min-height: 100vh;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+
+.card-neon {
+    background-color: #03001e;
+    border: 2px solid #00f5ff; 
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 15px #00f5ff; 
+    margin-bottom: 20px;
+}
+
+
+.titulo {
+    color: #fff; 
+    text-shadow: #fff;
+    text-align: center;
+}
+
+.paragrafo{
+  text-align: center;
+}
